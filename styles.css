@@ -148,3 +148,11 @@ cite {
   font-size: 15px;
   background-color: #3882f6;
 }
+
+.footer {
+  background-color: #1f2937;
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  padding: 40px;
+}
