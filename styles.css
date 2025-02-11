@@ -21,8 +21,7 @@
 }
 
 .logo {
-  font-size: 24px;
-  font-weight: 800;
+  width: 50px;
   color: #f9faf8;
 }
 
@@ -72,6 +71,11 @@
   padding: 8px 32px;
   border-radius: 7px;
   align-self: flex-start;
+}
+
+.right-hero {
+  width: 550px;
+  height: 250px;
 }
 
 .information-header {
