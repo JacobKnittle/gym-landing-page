@@ -51,6 +51,7 @@
 .left-hero {
   display: flex;
   flex-direction: column;
+  gap: 8px;
 }
 
 .hero-title {
@@ -67,8 +68,10 @@
 .sign-up {
   background-color: #3882f6;
   color: white;
-  padding: 8px 24px;
-  flex: 0;
+  font-weight: bold;
+  padding: 8px 32px;
+  border-radius: 7px;
+  align-self: flex-start;
 }
 
 .information-header {
