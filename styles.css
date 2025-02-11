@@ -144,12 +144,17 @@ cite {
   border-radius: 5px;
   display: flex;
   justify-content: space-around;
+  align-items: center;
   color: white;
   background-color: #3882f6;
 }
 
+.call-to-action-text {
+  width: 50%;
+}
+
 .call-to-action-content button {
-  padding: 1px 40px;
+  padding: 6px 40px;
   color: white;
   border-radius: 10px;
   border: 3px solid white;
