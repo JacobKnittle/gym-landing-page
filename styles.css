@@ -127,3 +127,24 @@ cite {
   margin-left: auto;
   margin-right: 0;
 }
+
+.call-to-action-content {
+  margin: 100px auto 100px auto;
+  padding: 50px;
+  max-width: 1000px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  background-color: #3882f6;
+}
+
+.call-to-action-content button {
+  padding: 1px 40px;
+  color: white;
+  border-radius: 10px;
+  border: 3px solid white;
+  font-weight: bold;
+  font-size: 15px;
+  background-color: #3882f6;
+}
